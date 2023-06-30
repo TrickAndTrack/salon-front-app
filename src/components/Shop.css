@@ -1,0 +1,22 @@
+img.ServiceBackground{
+    width: 100%;
+}
+.card-img-overlay{
+    margin-top: 20%;
+    font-size: 50px;
+    color: black;
+}
+img.card-img-top{
+    width: 40%;
+    margin-left: 30%;
+}
+.card{
+    background-color: antiquewhite;
+}
+.col-1{
+    padding-inline-start: 0px;
+    
+}
+.col-2{
+    padding-inline-end: 0px;
+}

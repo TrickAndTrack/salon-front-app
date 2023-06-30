@@ -1,0 +1,17 @@
+.container-fluid{
+    font-size: x-large;
+   /* margin-left: 27%;*/
+    
+}
+a.nav-link{
+    color: rgb(113, 86, 53);
+    margin-inline: 20px;
+
+}
+a.nav-link.btn.btn-warning.bg-transparent{
+    color: rgb(113, 86, 53);
+
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: auto;
+}

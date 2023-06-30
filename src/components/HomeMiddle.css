@@ -1,0 +1,17 @@
+.middleComponent{
+  height: 150px;
+  background-color: rgb(113, 86, 53);
+  font-size: 25px;
+  word-wrap: break-word;
+  margin-top: 5px;
+  color: white;
+   
+}
+hr{
+  height: 4px;
+  border-width:0;
+  color:#eabe0e ;
+  background-color:#eabe0e;
+  }
+
+  
